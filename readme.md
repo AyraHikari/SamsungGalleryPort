@@ -2,7 +2,7 @@
 Ported Samsung Gallery for any compatible ROMs
 
 ## Requirements
-- Android 11 or newer
+- Android 12 or newer
 - Magisk installed
 
 ## Download
